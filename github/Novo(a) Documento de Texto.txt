@@ -1,0 +1,9 @@
+https://hydralinks.cloud/sources/xatab.json
+https://hydralinks.cloud/sources/tinyrepacks.json
+https://hydralinks.cloud/sources/onlinefix.json
+https://hydralinks.cloud/sources/kaoskrew.json
+https://hydralinks.cloud/sources/gog.json
+https://hydralinks.cloud/sources/fitgirl.json
+https://hydralinks.cloud/sources/empress.json
+https://hydralinks.cloud/sources/dodi.json
+https://hydralinks.cloud/sources/steam-amiga.json
